@@ -4,7 +4,7 @@ This is a simple Hello World in Node.js.  This is as plain and simple as it can 
 
 Using your favorite text editor, create a file called server.js and type the following:
 
-// Display 'Hello World!' in the terminal
+// Display 'Hello World!' in the terminal<br />
 console.log("Hello World!");
 
 and then save your file.  Next, all we need to do is run the file by typing the following command in the terminal:
