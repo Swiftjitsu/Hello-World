@@ -13,4 +13,4 @@ node server.js
 
 This will run the Hello World program.
 
-<img src=http://res.cloudinary.com/swiftjitsu/image/upload/v1464427264/GitHub/Hello%20World/Hello_World.png" />
+<img src="http://res.cloudinary.com/swiftjitsu/image/upload/v1464427264/GitHub/Hello%20World/Hello_World.png" alt="hello world">
