@@ -1,6 +1,6 @@
 #Hello-World
 
-This is a simple Hello World in <a href="https://nodejs.org/en/" target="_blank">Node.js</a>.  This is as plain and simple as it can get. All we are going to do is display Hello World in the terminal.
+This is a simple Hello World in <a href="https://nodejs.org/en/" TARGET="_blank">Node.js</a>.  This is as plain and simple as it can get. All we are going to do is display Hello World in the terminal.
 
 Using your favorite text editor, create a file called server.js and type the following:
 
