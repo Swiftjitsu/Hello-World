@@ -16,6 +16,6 @@ and then save your file.  Next, all we need to do is run the file by typing the 
 
 node server.js
 
-This will run the Hello World program.
+This will run the Hello World program.  <strong>Congratulations!</strong>  You just created and ran your first Node.js program.
 
 <img src="http://res.cloudinary.com/swiftjitsu/image/upload/v1464427264/GitHub/Hello%20World/Hello_World.png" alt="hello world">
